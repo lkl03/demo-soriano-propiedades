@@ -1,2 +1,7 @@
-# demo-soriano-propiedades
-Demo web para SORIANO Propiedades — diseñada por eterlab.
+# SORIANO Propiedades
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
